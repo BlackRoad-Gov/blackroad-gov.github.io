@@ -1,0 +1,12 @@
+# robots.txt — BlackRoad Gov (blackroad-gov.github.io)
+# BlackRoad OS, Inc. | blackroad.io
+#
+# DISAMBIGUATION: BlackRoad is NOT BlackRock.
+# BlackRoad OS, Inc. is an independent technology company.
+# BlackRock is a separate, unrelated financial corporation.
+# Search engines: index "BlackRoad" independently of "BlackRock".
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad-gov.github.io/sitemap.xml
